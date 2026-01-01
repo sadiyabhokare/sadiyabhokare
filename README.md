@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @sadiyabhokare
 ### 👀 About Me  
 - 🚀 I love **creating and exploring new things**  
-- 🌱 Currently learning **Artificial Intelligence and Data Science**  
+- 🌱 Currently persuing BTech in  **Artificial Intelligence and Data Science**  
 - 💡 Looking to collaborate on **exciting project ideas**  
 - 📫 Reach me on **https://www.linkedin.com/in/sadiyabhokare**  
 - 😄 **Pronouns:** Sadiya  
