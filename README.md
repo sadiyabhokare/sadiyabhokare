@@ -9,9 +9,6 @@
 💡 Interested in **AI projects, automation, and smart systems**  
 🤝 Looking to collaborate on **exciting project ideas**  
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/sadiyabhokare
-
 ⚡ Quote:  
 *"Driven by data, powered by curiosity."*
 
@@ -19,9 +16,7 @@ https://www.linkedin.com/in/sadiyabhokare
 
 # 📊 GitHub Stats
 
-![Sadiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiyabhokare&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiyabhokare&layout=compact)
+![Sadiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiyabhokare&show_icons=true)                            ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiyabhokare&layout=compact)
 
 ---
 
