@@ -1,4 +1,6 @@
 ### 👋 Hi, I’m @sadiyabhokare
+
+![Banner](banner.png)
 ### 👀 About Me  
 - 🚀 I love **creating and exploring new things**  
 - 🌱 Currently persuing BTech in  **Artificial Intelligence and Data Science**  
