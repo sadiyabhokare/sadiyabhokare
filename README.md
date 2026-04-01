@@ -23,13 +23,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sadiyabhokare&show_icons=true&include_all_commits=true&count_private=true" height="170"/>      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiyabhokare&layout=compact" height="170"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
