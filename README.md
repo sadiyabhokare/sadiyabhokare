@@ -52,54 +52,83 @@ I'm a **BTech graduate in Artificial Intelligence & Data Science** who enjoys ex
 </tr>
 </table>
 
-<!-- TECH STACK -->
-
 <h2 align="center">✦ My Tech Constellation ✦</h2>
 
 <div align="center">
 
-*The tools and technologies I'm exploring.*
+<i>The tools and technologies I'm exploring.</i>
 
-<br><br>
+<br>
 
-**Languages**
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark"/>
 
 <br><br>
 
-**Data & Analytics**
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+### 📊 Data & Analytics
 
 <img src="https://skillicons.dev/icons?i=sklearn&theme=dark"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Power_BI-21152E?style=flat-square&logo=powerbi&logoColor=F9A8D4"/>
 <img src="https://img.shields.io/badge/Tableau-21152E?style=flat-square&logo=tableau&logoColor=F9A8D4"/>
 <img src="https://img.shields.io/badge/Pandas-21152E?style=flat-square&logo=pandas&logoColor=F9A8D4"/>
 <img src="https://img.shields.io/badge/NumPy-21152E?style=flat-square&logo=numpy&logoColor=F9A8D4"/>
 
-<br><br>
+</td>
+<td align="center" width="50%" valign="top">
 
-**AI & Computer Vision**
+### 🤖 AI & Computer Vision
 
 <img src="https://skillicons.dev/icons?i=opencv&theme=dark"/>
 
 <br><br>
 
-**Cloud & Tools**
+<img src="https://img.shields.io/badge/Machine_Learning-21152E?style=flat-square&logo=scikitlearn&logoColor=F9A8D4"/>
+<img src="https://img.shields.io/badge/Deep_Learning-21152E?style=flat-square&logo=pytorch&logoColor=F9A8D4"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+### ☁️ Cloud & Tools
 
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman&theme=dark"/>
 
 <br><br>
 
-**Automation**
+<i>Cloud infrastructure · Development tools · API testing</i>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### ⚙️ Automation
+
+<br>
 
 <img src="https://img.shields.io/badge/n8n-21152E?style=for-the-badge&logo=n8n&logoColor=F9A8D4"/>
+
+<br><br>
+
+<i>Workflow automation · API integrations · Task management</i>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
+
+
+
 
 <!-- PROJECTS -->
 
@@ -251,65 +280,52 @@ Exploring computer vision through image processing, object detection, and practi
 
 <!-- GITHUB STATS -->
 
-<!-- ═══════════ GITHUB UNIVERSE ═══════════ -->
-
 <h2 align="center">☾ My GitHub Universe ☽</h2>
 
-<p align="center">
-  <i>Every contribution is another star in my learning journey.</i>
-</p>
-
-<br>
-
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=sadiyabhokare&show_icons=true&hide_border=true&bg_color=161126&title_color=F0ABFC&text_color=FFFFFF&icon_color=F9A8D4&ring_color=C084FC&rank_icon=github"
-  width="48%"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiyabhokare&layout=compact&hide_border=true&bg_color=161126&title_color=F0ABFC&text_color=FFFFFF"
-  width="48%"
-  alt="Most Used Languages"
-/>
+<i>Every contribution is another star in my learning journey.</i>
 
 <br><br>
 
-<img
-src="https://streak-stats.demolab.com?user=sadiyabhokare&hide_border=true&background=161126&stroke=C084FC&ring=F0ABFC&fire=F9A8D4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F0ABFC&sideLabels=E9D5FF&dates=C4B5FD"
-width="80%"
-alt="GitHub Contribution Streak"
-/>
+<div align="center">
 
-<br><br>
+<!-- First Row -->
+<table>
+<tr>
+<td align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=sadiyabhokare&show_icons=true&hide_border=true&bg_color=161126&title_color=F0ABFC&text_color=FFFFFF&icon_color=F9A8D4&rank_icon=github" width="420" height="200" alt="GitHub Statistics"/>
+</td>
+<td align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiyabhokare&layout=compact&hide_border=true&bg_color=161126&title_color=F0ABFC&text_color=FFFFFF" width="420" height="200" alt="Most Used Languages"/>
+</td>
+</tr>
+</table>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=sadiyabhokare&bg_color=161126&color=FFFFFF&line=F0ABFC&point=F9A8D4&area=true&hide_border=true"
-width="98%"
-alt="GitHub Activity Graph"
-/>
+<br>
+
+<!-- Second Row -->
+<table>
+<tr>
+<td align="center" valign="top">
+<img src="https://streak-stats.demolab.com?user=sadiyabhokare&hide_border=true&background=161126&stroke=C084FC&ring=F0ABFC&fire=F9A8D4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F0ABFC&sideLabels=E9D5FF&dates=C4B5FD" width="420" height="200" alt="GitHub Contribution Streak"/>
+</td>
+<td align="center" valign="top">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiyabhokare&bg_color=161126&color=FFFFFF&line=F0ABFC&point=F9A8D4&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" width="420" height="200" alt="GitHub Activity Graph"/>
+</td>
+</tr>
+</table>
 
 </div>
 
-</div>
-
-<!-- CONTRIBUTION SNAKE -->
-
-<h2 align="center">✧ A Little GitHub Magic ✧</h2>
+<h2 align="center">🐍 Catching Stars in My Contribution Galaxy ✦</h2>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadiyabhokare/sadiyabhokare/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadiyabhokare/sadiyabhokare/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sadiyabhokare/sadiyabhokare/output/github-contribution-grid-snake.svg">
-</picture>
-
+<img src="https://raw.githubusercontent.com/sadiyabhokare/sadiyabhokare/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 </div>
 
-<br>
+
 
 <!-- CURRENTLY LEARNING -->
 
@@ -411,56 +427,6 @@ API Integrations · Task Automation
 </div>
 
 <!-- ═══════════ OTHER WORK ═══════════ -->
-
-<!-- <h2 align="center">🎨 Explore My Other Work</h2>
-
-<p align="center">
-  <i>Beyond GitHub — exploring datasets, discovering patterns, and visualizing insights.</i>
-</p>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" align="center" valign="top">
-
-<h3>📊 Tableau Public</h3>
-
-<img src="https://img.shields.io/badge/DATA_STORYTELLING-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-
-<br><br>
-
-Explore my interactive visualizations and dashboards.
-
-<br><br>
-
-<a href="https://public.tableau.com/app/profile/sadiya.bhokare/vizzes">
-  <img src="https://img.shields.io/badge/EXPLORE_DASHBOARDS-21152E?style=for-the-badge&logo=tableau&logoColor=F9A8D4"/>
-</a>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<h3>🧪 Kaggle</h3>
-
-<img src="https://img.shields.io/badge/DATA_EXPLORATION-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
-
-<br><br>
-
-Explore datasets, experiment with Python, and practice data analysis.
-
-<br><br>
-
-<a href="https://www.kaggle.com/">
-  <img src="https://img.shields.io/badge/EXPLORE_KAGGLE-21152E?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/>
-</a>
-
-</td>
-
-</tr>
-</table> -->
 
  <h2 align="center">🎨 Explore My Other Work</h2>
 
