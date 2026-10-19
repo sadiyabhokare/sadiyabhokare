@@ -9,7 +9,18 @@
 </div>
 
 <!-- CAPSULE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D001A,35:39205F,70:8B5CF6,100:F9A8D4&text=SADIYA%20BHOKARE&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=✦%20AI%20%7C%20DATA%20%7C%20CLOUD%20%7C%20AUTOMATION%20✦&descSize=17&descAlignY=58"/>
+<!-- <img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D001A,35:39205F,70:8B5CF6,100:F9A8D4&fontColor=FFFFFF&desc=%E2%9C%A6%20AI%20%7C%20DATA%20%7C%20CLOUD%20%7C%20AUTOMATION%20%E2%9C%A6&descSize=17&descAlign=50&descAlignY=42"
+/> -->
+<!-- MIDNIGHT BLOOM CAPSULE -->
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:0D001A,35:39205F,70:8B5CF6,100:F9A8D4&desc=%E2%9C%A6%20AI%20%7C%20DATA%20%7C%20CLOUD%20%7C%20AUTOMATION%20%E2%9C%A6&descSize=17&descAlign=50&descAlignY=45&fontColor=FFFFFF"
+    alt="Midnight Bloom — AI, Data, Cloud and Automation"
+  />
+</div>
 
 <br>
 
