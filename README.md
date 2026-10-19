@@ -9,11 +9,6 @@
 </div>
 
 <!-- CAPSULE DIVIDER -->
-<!-- <img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D001A,35:39205F,70:8B5CF6,100:F9A8D4&fontColor=FFFFFF&desc=%E2%9C%A6%20AI%20%7C%20DATA%20%7C%20CLOUD%20%7C%20AUTOMATION%20%E2%9C%A6&descSize=17&descAlign=50&descAlignY=42"
-/> -->
-<!-- MIDNIGHT BLOOM CAPSULE -->
 <div align="center">
   <img
     width="100%"
