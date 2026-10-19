@@ -5,7 +5,7 @@
 
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://github.com/sadiyabhokare/sadiyabhokare/blob/main/Copilot_20261019_141930.png" alt="Sadiya Bhokare GitHub Universe Banner" width="100%"/>
+  <img src="https://github.com/sadiyabhokare/sadiyabhokare/blob/main/Copilot_20261019_143553.png" alt="Sadiya Bhokare GitHub Universe Banner" width="100%"/>
 </div>
 
 <!-- CAPSULE DIVIDER -->
