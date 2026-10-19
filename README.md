@@ -3,6 +3,12 @@
 
 <div align="center">
 
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://github.com/sadiyabhokare/sadiyabhokare/blob/main/Copilot_20261019_141930.png" alt="Sadiya Bhokare GitHub Universe Banner" width="100%"/>
+</div>
+
+<!-- CAPSULE DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D001A,35:39205F,70:8B5CF6,100:F9A8D4&text=SADIYA%20BHOKARE&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=✦%20AI%20%7C%20DATA%20%7C%20CLOUD%20%7C%20AUTOMATION%20✦&descSize=17&descAlignY=58"/>
 
 <br>
