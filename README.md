@@ -146,7 +146,7 @@ I'm a **BTech graduate in Artificial Intelligence & Data Science** who enjoys ex
 
 <!-- ═══════════ SELECTED CREATIONS ═══════════ -->
 
-<h2 align="center">✧ Selected Creations ✧</h2>
+<!-- <h2 align="center">✧ Selected Creations ✧</h2>
 
 <p align="center">
   <i>A collection of things I've learned, built, and explored.</i>
@@ -288,7 +288,7 @@ Exploring computer vision through image processing, object detection, and practi
 <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-21152E?style=for-the-badge&logo=github&logoColor=E9D5FF"/>
 </a>
 
-</div>
+</div> -->
 
 <!-- GITHUB STATS -->
 
