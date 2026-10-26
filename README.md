@@ -341,7 +341,7 @@ Exploring computer vision through image processing, object detection, and practi
 
 <!-- CURRENTLY LEARNING -->
 
-<h2 align="center">🌱 Currently Growing</h2>
+<!-- <h2 align="center">🌱 Currently Growing</h2>
 
 <div align="center">
 
@@ -406,7 +406,7 @@ API Integrations · Task Automation
 <img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-C084FC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MINDSET-CURIOSITY_FIRST-F9A8D4?style=for-the-badge"/>
 
-</div>
+</div> -->
 
 <!-- ═══════════ CONTACT ═══════════ -->
 
